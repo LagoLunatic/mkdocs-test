@@ -13,14 +13,5 @@
 				"isDefault": true
 			},
 		},
-		{
-			"label": "Build website and push to GitHub pages",
-			"command": "mkdocs",
-			"args": [
-				"gh-deploy"
-			],
-			"problemMatcher": [],
-			"group": "build",
-		},
 	]
 }
