@@ -9,8 +9,8 @@ nav:
   # - features.md
   - resources.md
   - faq.md
-  - credits.md
   - release-history.md
+  - credits.md
 
 theme:
   name: material

@@ -2,19 +2,20 @@
 
 To play Wind Waker Randomizer, you need three things:
 
-- An ISO of the North American GameCube version of The Legend of Zelda: The Wind Waker, which you can rip from your own disk by following [this guide](https://wiki.dolphin-emu.org/index.php?title=Ripping_Games)
-- A way to play GameCube games, such as [Dolphin](https://en.dolphin-emu.org/download/) for PC/Android, or [Nintendont](https://github.com/FIX94/Nintendont) for Wii
-- The Wind Waker Randomizer program itself (PC only), which can be downloaded [here](download.md)
+- An ISO of the North American GameCube version of The Legend of Zelda: The Wind Waker, which you can rip from your own disk by following [this guide.](https://wiki.dolphin-emu.org/index.php?title=Ripping_Games)
+- A way to play GameCube games, such as [Dolphin](https://en.dolphin-emu.org/download/) for PC/Android, or [Nintendont](https://github.com/FIX94/Nintendont) for Wii.
+- The Wind Waker Randomizer program itself (PC only), which can be downloaded [here.](download.md)
 
 !!! note
     It is not recommended to use RetroArch or a legacy build of Dolphin, as they are both very outdated. Use a recent beta or development build of Dolphin instead.
 
 ## Learning to Play
 
-[Randomizer Tracker](http://www.wooferzfg.me/tww-rando-tracker/)  
-This tool is highly recommended, it allows you to keep track of which locations you've already visited on a seed and tells you which locations locations you have left to check.
+[wooferzfg's TWW Randomizer Tracker](http://www.wooferzfg.me/tww-rando-tracker/)  
+This tool is highly recommended. It allows you to keep track of which locations you've already visited on a seed and tells you which locations locations you have left to check.  
 
-[JarheadHME's randomized Secret Caves guide](https://drive.google.com/file/d/1mPhzoxL0wAPs7-a5Q1tM5AOx5jpb3lx9/view)
+[JarheadHME's Randomized Secret Caves Guide](https://drive.google.com/file/d/1mPhzoxL0wAPs7-a5Q1tM5AOx5jpb3lx9/view)  
+A reference for telling similar Secret Caves apart from one another when you have the Secret Cave Entrance Randomizer enabled.  
 
 ## Racing
 
