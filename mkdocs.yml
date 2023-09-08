@@ -6,7 +6,6 @@ repo_name: WWRando Source Code
 nav:
   - index.md
   - download.md
-  # - features.md
   - resources.md
   - faq.md
   - release-history.md
