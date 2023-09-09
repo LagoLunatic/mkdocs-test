@@ -5,9 +5,10 @@ repo_name: WWRando Source Code
 
 nav:
   - index.md
+  - getting-started.md
   - download.md
-  - resources.md
   - faq.md
+  - useful-links.md
   - release-history.md
   - credits.md
 

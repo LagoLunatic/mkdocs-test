@@ -18,7 +18,7 @@ Additionally, it comes with several other optional randomization features, such 
 
 ## Download Wind Waker Randomizer
 
-Head over to the [download page](download.md) to get the latest version of the randomizer, and then check out the [Getting Started](resources.md#getting-started) guide for a quick overview of how to get it set up and play it.
+Head over to the [Getting Started](getting-started.md) guide for a quick overview of how to get the randomizer set up and play it, or skip right to the [download page](download.md) if you're updating from a previous version.
 
 ## Discord Server
 

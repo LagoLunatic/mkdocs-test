@@ -1,13 +1,5 @@
-## Getting Started
 
-To play Wind Waker Randomizer, you need three things:
-
-- An ISO of the North American GameCube version of The Legend of Zelda: The Wind Waker, which you can rip from your own disk by following [this guide.](https://wiki.dolphin-emu.org/index.php?title=Ripping_Games)
-- A way to play GameCube games, such as [Dolphin](https://en.dolphin-emu.org/download/) for PC/Android, or [Nintendont](https://github.com/FIX94/Nintendont) for Wii.
-- The Wind Waker Randomizer program itself (PC only), which can be downloaded [here.](download.md)
-
-!!! note
-    It is not recommended to use RetroArch or a legacy build of Dolphin, as they are both very outdated. Use a recent beta or development build of Dolphin instead.
+# Useful Links
 
 ## Learning to Play
 
