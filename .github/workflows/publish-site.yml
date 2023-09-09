@@ -1,8 +1,6 @@
 name: Publish Website
 on:
-  push:
-    branches:
-      - master
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -17,4 +15,4 @@ jobs:
           python-version: 3.x
           cache: 'pip'
       - run: pip install mkdocs-material mkdocs-macros-plugin 
-      - run: mkdocs gh-deploy --force
+      - run: mkdocs gh-deploy --force --config-file mkdocs-gh-pages.yml
