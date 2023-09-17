@@ -9,7 +9,7 @@ nav:
   - download.md
   - faq.md
   - useful-links.md
-  - release-history.md
+  # - release-history.md
   - credits.md
 
 theme:
